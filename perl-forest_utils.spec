@@ -16,7 +16,6 @@ BuildRequires:	perl-devel
 %endif
 BuildRequires:	perl-libxml-perl
 Buildarch:	noarch
-Buildroot:	%{_tmppath}/%{name}-%{version}
 Obsoletes:	perl-Forest
 Provides:	perl-Forest
 
