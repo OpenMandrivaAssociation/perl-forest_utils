@@ -1,7 +1,7 @@
 %define module	forest_utils
 %define name	perl-%{module}
 %define version	0.07
-%define release	%mkrel 3
+%define release	%mkrel 5
 
 Name:		%{name}
 Version:	%{version}
