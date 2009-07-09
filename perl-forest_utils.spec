@@ -11,6 +11,7 @@ Url:		https://gforge.inria.fr/projects/lingwb
 Source:		https://gforge.inria.fr/frs/download.php/5678/%{upstream_name}-%{upstream_version}.tar.gz
 BuildRequires:	perl(XML::Generator)
 BuildRequires:	perl(XML::Parser)
+BuildRequires:	perl(Data::Grove)
 BuildRequires:	perl(CGI)
 Buildarch:	noarch
 Buildroot:	%{_tmppath}/%{name}-%{version}
