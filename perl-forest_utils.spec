@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	2
+Release:	3
 Summary:	Conversion between various formats for shared derivation forest
 License:	GPL
 Group:		Sciences/Computer science
